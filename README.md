@@ -14,11 +14,8 @@ Multi-factor authentication system with fingerprint support.
 ### [Movie Booking App](https://github.com/wanjikudavid/movie-booking)
 A modern web app for movie ticket booking and management.
 
-## ✍ Blog & Writing
-- [Medium: My Twin Flame Journey & Tech](https://medium.com/@wanjikudavid)
-
 ## 📫 Connect with Me
-[LinkedIn](https://linkedin.com/in/wanjikudavid) | [Twitter](https://twitter.com/wanjikudavid) | [Email Me](mailto:your.email@example.com)
+[LinkedIn](https://linkedin.com/in/wanjikudev) | [Twitter](https://twitter.com/wanjikudavid) | [Email Me](wanjikudavid544@gmail.com)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
