@@ -1,6 +1,6 @@
-# Hi, I'm Wanjiku David!
+# Hi, I'm David!
 
-I'm a passionate software developer specializing in Java, Spring Boot, and web application security.
+I'm a passionate software developer from Kenya specializing in Java, Spring Boot, and web application security.
 
 ## 🔧 Skills
 - Languages: Java, JavaScript, HTML, CSS
