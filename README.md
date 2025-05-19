@@ -5,7 +5,7 @@ I'm a passionate software developer specializing in Java, Spring Boot, and web a
 ## 🔧 Skills
 - Languages: Java, JavaScript, HTML, CSS
 - Frameworks: Spring Boot
-- Tools: MySQL, IntelliJ IDEA, VS Code, Git
+- Tools: MySQL, IntelliJ IDEA, VS Code, Git,Android Studio,Eclipse ide
 
 ## 📌 Projects
 ### [Secure Authentication System](https://github.com/wanjikudavid/secure-auth-system)
