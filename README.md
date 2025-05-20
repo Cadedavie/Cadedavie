@@ -67,7 +67,7 @@ I'm a Kenyan passionate and detail-oriented **Software Developer** with a BSc in
 - ☎️ Phone: +254 790 560645  
 - 🌐 GitHub: [github.com/wanjikudev](https://github.com/wanjikudev)  
 - 💼 LinkedIn: [linkedin.com/in/wanjikudev](https://linkedin.com/in/wanjikudev)  
-- 🧩 Portfolio: [wanjikudev.github.io](https://wanjikudev.github.io) *(Optional)*
+- 🧩 Portfolio: [wanjikudev.github.io](https://wanjikudev.github.io)
 
 ---
 
